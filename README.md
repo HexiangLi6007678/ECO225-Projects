@@ -36,8 +36,6 @@ All main results are documented in the final research paper.
 ### ** 3. Datasets Used**
 - **Airbnb Listings:** [`listings.csv`](listings.csv)  
 - **Neighborhood Tables:** [`2015-2019_neighborhood_tables_2021.12.21.xlsm`](2015-2019_neighborhood_tables_2021.12.21.xlsm)  
-- **Calendar / Availability:** [`calendar.csv`](calendar.csv)
-
 ---
 
 ## Key Findings
